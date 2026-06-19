@@ -11,3 +11,6 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# content is a local symlink to the braingent repo (recreate with: npx quartz create --strategy symlink --source <path>)
+/content
